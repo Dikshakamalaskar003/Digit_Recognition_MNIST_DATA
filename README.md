@@ -1,3 +1,49 @@
+# DataSpeak – Neural Network Implementation from Scratch
+
+## Project Overview
+
+This project presents a **pure implementation of a feedforward neural network** using **Python and NumPy**, developed **solely for understanding the internal working of neural networks**.
+
+The primary objective of this project is **conceptual clarity**, not performance optimization.  
+No deep learning frameworks (such as TensorFlow or PyTorch) are used for model training or learning logic.
+
+The project is designed as an **academic learning exercise** for **M.Sc. level study** to understand:
+- Neural network architecture
+- Forward propagation
+- Backpropagation algorithm
+- Gradient descent optimization
+
+---
+
+## Academic Purpose
+
+- This project is **purely for understanding neural networks**
+- Focus is on **mathematical and algorithmic implementation**
+- Not intended to compete with optimized deep learning models
+- Emphasizes **learning fundamentals over accuracy**
+
+---
+
+## Technologies Used
+
+- Python 3  
+- NumPy  
+- TensorFlow (used **only** for loading the MNIST dataset)
+
+---
+
+## File Description
+
+| File Name | Description |
+|----------|-------------|
+| `dataspeak.py` | Complete neural network implementation, training logic, and evaluation |
+
+---
+
+## Neural Network Architecture
+
+The network follows a **fully connected feedforward structure**:
+
 
 Example configurations:
 - `[2, 2, 1]` – basic concept testing
